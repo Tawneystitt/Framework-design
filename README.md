@@ -1,4 +1,4 @@
-<h1>Framework design of my favorite application</h1>
+<h1>Framewire design of my favorite application</h1>
 
 
 <br />
